@@ -11,6 +11,8 @@ In response to this requirement, a state-of-the-art restaurant management system
 ## Execute
 java -jar RMS_GUI.jar
 
+As long as you have the latest version of Java and JDK, you should be able to run it without any problems.
+
 ## Login
 You can use test data for the first time. You can add new staff when you log in as manager.
 Manager : Id-1000, Password-9999
