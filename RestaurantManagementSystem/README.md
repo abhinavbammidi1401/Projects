@@ -5,9 +5,8 @@ In response to this requirement, a state-of-the-art restaurant management system
 
 ## Author Info
 Last updated - 17-07-2020
-Version 1.0
-Abhinav Bammidi
-
+Version - 1.0.0
+Author - Abhinav Bammidi
 
 ## Execute
 java -jar RMS_GUI.jar
