@@ -39,35 +39,35 @@ You can see all menu items by clicking ALL button, and items in particular categ
 3. The order closed or canceled can not edit
 
 ## Manage Employees (Manager only)
-### Add new staff
+## -->Add new staff
 1. Click "Manage Employees" Button on the left
 2. Click "New" button
 3. Fill in all information and click OK
 
-###Edit staff
+## -->Edit staff
 1. Click "Manage Employees" Button on the left
 2. Select a staff from the employees list
 3. Click "Edit" button
 4. Fill in all information and click OK
 
-###Delete staff
+## -->Delete staff
 1. Click "Manage Employees" Button on the left
 2. Select a staff from the employees list
 3. Click "Delete" button
 
 ##Manage Menu Items (Manager only)
-###Add new item
+## -->Add new item
 1. Click "Manage menu items" Button on the left
 2. Click "Add new menu item" button
 3. Fill in all information and click OK
 
-###Edit menu item
+## -->Edit menu item
 1. Click "Manage menu items" Button on the left
 2. Select a menu item from the menu list
 3. Click "Edit menu item" button
 4. Fill in all information and click OK
 
-###Delete menu item
+## -->Delete menu item
 1. Click "Manage menu items" Button on the left
 2. Select a menu item from the menu list
 3. Click "Delete menu item" button
