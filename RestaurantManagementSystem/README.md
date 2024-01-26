@@ -72,7 +72,7 @@ You can see all menu items by clicking ALL button, and items in particular categ
 2. Select a menu item from the menu list
 3. Click "Delete menu item" button
 
-##About payments
+## -->About payments
 * When you log in, the system automaticaly set start working time.
 * Clock out button will set finish working time of the person currently logged in.
 * Manager can make staff clocked out via manage employees, by selecting staff and clicking Clock out button.
