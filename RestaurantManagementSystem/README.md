@@ -16,6 +16,8 @@ You can use test data for the first time. You can add new staff when you log in 
 Manager : Id-1000, Password-9999
 Staff: Id-1100, Password-9998
 
+The Manager of course, has access to all the functions in the system, but the staff can only access limited functions. Taking orders, clocking out(of course), and viewing the menu.
+
 ## Show menu
 You can see all menu items by clicking ALL button, and items in particular categories by clicking Drink, Alcohol, Main, or Dessert button.  
 ## Taking order
@@ -38,7 +40,7 @@ You can see all menu items by clicking ALL button, and items in particular categ
 2. Click "Close" button or "Cancel" button
 3. The order closed or canceled can not edit
 
-## Manage Employees (Manager only)
+
 ## -->Add new staff
 1. Click "Manage Employees" Button on the left
 2. Click "New" button
