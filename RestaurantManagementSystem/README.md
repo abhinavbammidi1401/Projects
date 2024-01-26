@@ -4,7 +4,7 @@ Valentino Restaurant, an iconic and renowned Italian culinary haven, has long be
 In response to this requirement, a state-of-the-art restaurant management system has been meticulously developed using core Java. Leveraging the power and versatility of this programming language, the system has been tailored to cater specifically to the unique needs of Valentino Restaurant. The use of core Java ensures a robust and scalable foundation, allowing for efficient management of various facets of the restaurant's operations, including reservations, order processing, inventory management, and staff scheduling. The system's user-friendly interface enhances the overall dining experience for both customers and staff, promoting smoother interactions and streamlined processes. With this innovative solution in place, Valentino Restaurant is poised to elevate its operational efficiency and maintain its stellar reputation in the culinary world.
 
 ## Author Info
-Last updated - 17-07-2020
+Last updated - 17-07-2024
 Version - 1.0.0
 Author - Abhinav Bammidi
 
